@@ -1,0 +1,8 @@
+version: '3'
+services:
+  postgres:
+    image: ""
+    environment: 
+      A: 2
+    ports:
+      - "22:22"
